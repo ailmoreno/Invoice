@@ -37,3 +37,4 @@ if __name__ == "__main__":
         add_project(records, project_name, start_time, end_time)
     
     display_summary(records)
+    
